@@ -1,0 +1,72 @@
+body{
+	margin:0;
+	
+	
+}
+
+
+
+#purple{
+	
+	background:purple;
+	width:100%;
+	height:80px;
+	
+	
+}
+
+#red{
+	
+	background:red;
+	width:600px;
+	height:950px;
+	margin-left:175px;
+	
+}
+
+.blue{
+	
+	background:blue;
+	width:400px;
+	height:250px;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-bottom: 35px;
+	
+	position: relative;
+	float:left;
+	
+	
+	
+}
+
+.spaces{
+	position: relative;
+	float: left;
+	padding-top: 50px;
+	
+	
+	
+}
+
+.yellow{
+	
+	background: yellow;
+	position: relative;
+	float: left;
+	width:110px;
+	height:110px;
+	margin: 25px;
+		
+}
+
+.green{
+	
+	background:green;
+	position: relative;
+	float: left;
+	width:220px;
+	height:170px;
+	margin-top: 25px;
+
+}
